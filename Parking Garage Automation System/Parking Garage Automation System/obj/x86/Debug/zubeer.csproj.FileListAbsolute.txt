@@ -1,0 +1,35 @@
+c:\users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\bin\Debug\zubeer.exe
+c:\users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\bin\Debug\zubeer.pdb
+c:\users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\obj\x86\Debug\zubeer.Form1.resources
+c:\users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\obj\x86\Debug\zubeer.Properties.Resources.resources
+c:\users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\obj\x86\Debug\zubeer.csproj.GenerateResource.Cache
+c:\users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\obj\x86\Debug\zubeer.exe
+c:\users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\obj\x86\Debug\zubeer.pdb
+c:\users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\obj\x86\Debug\zubeer.Form2.resources
+c:\users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\obj\x86\Debug\zubeer.Form3.resources
+c:\users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\obj\x86\Debug\zubeer.Form4.resources
+c:\users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\obj\x86\Debug\zubeer.Form5.resources
+c:\users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\obj\x86\Debug\zubeer.Form6.resources
+c:\users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\obj\x86\Debug\zubeer.Form7.resources
+c:\users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\obj\x86\Debug\zubeer.Form8.resources
+c:\users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\obj\x86\Debug\zubeer.Form9.resources
+c:\users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\obj\x86\Debug\zubeer.Form10.resources
+C:\Users\ok\documents\visual studio 2010\Projects\zubeer\zubeer\obj\x86\Debug\zubeer.csprojResolveAssemblyReference.cache
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\obj\x86\Debug\zubeer.csprojAssemblyReference.cache
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\obj\x86\Debug\zubeer.Form1.resources
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\obj\x86\Debug\zubeer.Form10.resources
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\obj\x86\Debug\zubeer.Form2.resources
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\obj\x86\Debug\zubeer.Form3.resources
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\obj\x86\Debug\zubeer.Form4.resources
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\obj\x86\Debug\zubeer.Form5.resources
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\obj\x86\Debug\zubeer.Form6.resources
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\obj\x86\Debug\zubeer.Form7.resources
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\obj\x86\Debug\zubeer.Form8.resources
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\obj\x86\Debug\zubeer.Form9.resources
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\obj\x86\Debug\zubeer.Properties.Resources.resources
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\obj\x86\Debug\zubeer.csproj.GenerateResource.cache
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\obj\x86\Debug\zubeer.csproj.CoreCompileInputs.cache
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\obj\x86\Debug\zubeer.exe
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\obj\x86\Debug\zubeer.pdb
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\bin\Debug\zubeer.exe
+C:\Users\Pc\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\zubeer\zubeer\bin\Debug\zubeer.pdb
